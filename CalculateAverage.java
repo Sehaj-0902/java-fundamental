@@ -9,7 +9,7 @@ public class CalculateAverage {
         double num2 = sc.nextDouble();
         System.out.println("Enter the third number: ");
         double num3 = sc.nextDouble();
-        double average = (num1 + num2 + num3) / 3.0;
+        double average = ( num1 + num2 + num3 ) / 3.0;
         System.out.println("The average of the three numbers is: " + average);
     }
 }
